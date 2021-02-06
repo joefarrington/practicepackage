@@ -5,7 +5,6 @@ description = ""
 authors = ["Joe Farrington <farrington.joe@gmail.com>"]
 readme = "README.md"
 license = "MIT"
-include ["LICENSE"]
 homepage = "https://github.com/joefarrington/practicepackage"
 repository = "https://github.com/joefarrington/practicepackage" 
 
