@@ -22,4 +22,4 @@ class TestPercentage:
         test_numerator = 10
         test_denominator = 0
         with pytest.raises(ZeroDivisionError):
-            actual = percentage(test_numerator, test_denominator)
+            percentage(test_numerator, test_denominator)
